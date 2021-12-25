@@ -1,0 +1,16 @@
+url: 'https://shrishailde.github.io'
+baseurl: ''
+title: Data Engg. Logbook
+permalink: '/post/:title'
+google-analytics: UA-179063751-1
+# Collections
+collections:
+  basics:
+    output: true
+    permalink: /basics/:title
+  cloud:
+    output: true
+    permalink: /cloud/:title
+  sparkafka:
+    output: true
+    permalink: /sparkafka/:title
