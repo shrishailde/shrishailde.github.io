@@ -129,7 +129,7 @@ We will create 7 empty lists to store the attributes extracted from these pages 
 One can check the above logic works fine to create the correct web urls for each page.
 Then using the steps described above to extract attribute values, we add more Python statements to obtain themfor each of the 40 items per page. Using the attribute values stored in respective lists, finally a `pandas` dataframe is created which is then written into both `excel` and `sql` format to analyze them using Microsoft Excel and PostgreSQL applications, respectively. 
 
-The complete code can be accessed using this [GitHub Link]().
+The complete code can be accessed using this [GitHub Link](https://github.com/shrishailde/Flipkart-Webscraping-Files).
 
 ### Created Dataset Opened in Excel Aplication
 
